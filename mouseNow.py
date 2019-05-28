@@ -9,9 +9,9 @@ try:
     while True:
         # Get and print the mouse coordinates
         x, y = pyautogui.position()
-        positionStr = 'X: ' + str(x).rjust(4) + ' y: ' + str(y).rjust(4)
+        positionStr = 'X: ' + str(x).rjust(3) + ' y: ' + str(y).rjust(3)
         pixelColor = pyautogui.screenshot().getpixel((x,y))
-        positionStr +=  'RGB: (' + str(pixelColor[0]).rjust(3)
+        positionStr +=  ' RGB:(' + str(pixelColor[0]).rjust(2)
         positionStr += ', ' + str(pixelColor[1]).rjust(3)
         positionStr += ', ' + str(pixelColor[2]).rjust(3) + ')'
         print(positionStr, end= '')
