@@ -3,18 +3,18 @@
 import time
 
 print('Hello!')
-time.sleep(1)
+time.sleep(.5)
 print('What is your name?')
 myName = input('> ')
 print('It is good to meet you, ' + myName)
-time.sleep(1)
-print('The length of your name is:')
 time.sleep(.5)
+print('The length of your name is:')
+time.sleep(.25)
 print(len(myName))
-time.sleep(1)
+time.sleep(.5)
 print('What is your age?')
 myAge = input()
-time.sleep(1)
+time.sleep(.5)
 
 while not myAge.isdigit():
     print('Type an integer you dolt.')
@@ -22,7 +22,7 @@ while not myAge.isdigit():
 
 myAge = int(myAge)
 print('You will be ' + str(myAge + 1) + ' in a year.')
-time.sleep(1)
+time.sleep(.5)
 nameDone = True
 
 def ageTest():
@@ -30,28 +30,28 @@ def ageTest():
     global newName
     if myAge == 7 and (myName == 'Charlotte' or myName == 'Charli' or myName == 'charlotte' or myName == 'charli'):
         print('Hello Ms. Buchwald')
-        time.sleep(1)
+        time.sleep(.5)
         print('What name do you like to be called by?')
         newName = input('> ')
     elif myAge <= 12 and (myName == 'Charlotte' or myName == 'Charli' or myName == 'charlotte' or myName == 'charli'):
         print('You aren\'t the ' + myName + 'I know.')
         print('You\'re too young for this program')
-        time.sleep(1)
+        time.sleep(.5)
         print('Go Away!')
         nameDone = False
     elif myAge <=12:
         print('You\'re too young for this program')
-        time.sleep(1)
+        time.sleep(.5)
         print('Go Away!')
         nameDone = False
     elif myName == 'Charlotte' or myName == 'Charli' or myName == 'charlotte' or myName == 'charli':
         print('You aren\'t the ' + myName + ' I know.')
-        time.sleep(1)
+        time.sleep(.5)
         print('What\'s your name again?')
         newName = input('> ')
     else:
         print('What\'s your name again?')
-        time.sleep(1)
+        time.sleep(.5)
         newName = input('> ')
 
 def pickyAboutNames():
@@ -75,17 +75,21 @@ def takeItLiteral():
         print('Wrong! \nPlease type your name')
         yourName = input('> ')
         if hint > 4:
-            time.sleep(2)
-            print('Pay Attention!  Do EXACTLY what I ask.\nPlease type your name')
+            time.sleep(1)
+            print('Pay Attention!  Do EXACTLY what I ask!')
+            time.sleep(1)
+            print('Please type your name')
             yourName = input('> ')
             hint = hint - 2
         else:
             hint = hint + 1
-    time.sleep(1)
+    time.sleep(.5)
+    print('reticulating splines...')
+    time.sleep(2)
     print('Great job!')
 
 ageTest()
-time.sleep(1)
+time.sleep(.7)
 
 if nameDone:
     pickyAboutNames()
