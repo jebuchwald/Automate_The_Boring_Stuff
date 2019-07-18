@@ -1,0 +1,926 @@
+
+ The current folder is .\
+ SUBFOLDER OF .\: .git
+ SUBFOLDER OF .\: automate_online-materials
+ SUBFOLDER OF .\: Automate_the_Boring_Stuff_onlinematerials_v.2
+ SUBFOLDER OF .\: chapter18
+ SUBFOLDER OF .\: chapter1_3
+ SUBFOLDER OF .\: Chapter4
+ SUBFOLDER OF .\: chapter5
+ SUBFOLDER OF .\: chapter6
+ SUBFOLDER OF .\: chapter8
+ SUBFOLDER OF .\: chapter9
+ FILE INSIDE .\: dirList.txt
+ FILE INSIDE .\: pyKeyboard_attributes.txt
+ FILE INSIDE .\: README.md
+ The current folder is .\.git
+ SUBFOLDER OF .\.git: hooks
+ SUBFOLDER OF .\.git: info
+ SUBFOLDER OF .\.git: logs
+ SUBFOLDER OF .\.git: objects
+ SUBFOLDER OF .\.git: refs
+ FILE INSIDE .\.git: COMMIT_EDITMSG
+ FILE INSIDE .\.git: config
+ FILE INSIDE .\.git: description
+ FILE INSIDE .\.git: FETCH_HEAD
+ FILE INSIDE .\.git: HEAD
+ FILE INSIDE .\.git: index
+ FILE INSIDE .\.git: ORIG_HEAD
+ The current folder is .\.git\hooks
+ FILE INSIDE .\.git\hooks: applypatch-msg.sample
+ FILE INSIDE .\.git\hooks: commit-msg.sample
+ FILE INSIDE .\.git\hooks: fsmonitor-watchman.sample
+ FILE INSIDE .\.git\hooks: post-update.sample
+ FILE INSIDE .\.git\hooks: pre-applypatch.sample
+ FILE INSIDE .\.git\hooks: pre-commit.sample
+ FILE INSIDE .\.git\hooks: pre-push.sample
+ FILE INSIDE .\.git\hooks: pre-rebase.sample
+ FILE INSIDE .\.git\hooks: pre-receive.sample
+ FILE INSIDE .\.git\hooks: prepare-commit-msg.sample
+ FILE INSIDE .\.git\hooks: update.sample
+ The current folder is .\.git\info
+ FILE INSIDE .\.git\info: exclude
+ The current folder is .\.git\logs
+ SUBFOLDER OF .\.git\logs: refs
+ FILE INSIDE .\.git\logs: HEAD
+ The current folder is .\.git\logs\refs
+ SUBFOLDER OF .\.git\logs\refs: heads
+ SUBFOLDER OF .\.git\logs\refs: remotes
+ The current folder is .\.git\logs\refs\heads
+ FILE INSIDE .\.git\logs\refs\heads: master
+ The current folder is .\.git\logs\refs\remotes
+ SUBFOLDER OF .\.git\logs\refs\remotes: origin
+ The current folder is .\.git\logs\refs\remotes\origin
+ FILE INSIDE .\.git\logs\refs\remotes\origin: master
+ The current folder is .\.git\objects
+ SUBFOLDER OF .\.git\objects: 00
+ SUBFOLDER OF .\.git\objects: 01
+ SUBFOLDER OF .\.git\objects: 04
+ SUBFOLDER OF .\.git\objects: 05
+ SUBFOLDER OF .\.git\objects: 07
+ SUBFOLDER OF .\.git\objects: 08
+ SUBFOLDER OF .\.git\objects: 0a
+ SUBFOLDER OF .\.git\objects: 0d
+ SUBFOLDER OF .\.git\objects: 0f
+ SUBFOLDER OF .\.git\objects: 10
+ SUBFOLDER OF .\.git\objects: 13
+ SUBFOLDER OF .\.git\objects: 14
+ SUBFOLDER OF .\.git\objects: 15
+ SUBFOLDER OF .\.git\objects: 16
+ SUBFOLDER OF .\.git\objects: 17
+ SUBFOLDER OF .\.git\objects: 18
+ SUBFOLDER OF .\.git\objects: 19
+ SUBFOLDER OF .\.git\objects: 1a
+ SUBFOLDER OF .\.git\objects: 1b
+ SUBFOLDER OF .\.git\objects: 1c
+ SUBFOLDER OF .\.git\objects: 1e
+ SUBFOLDER OF .\.git\objects: 1f
+ SUBFOLDER OF .\.git\objects: 21
+ SUBFOLDER OF .\.git\objects: 22
+ SUBFOLDER OF .\.git\objects: 24
+ SUBFOLDER OF .\.git\objects: 25
+ SUBFOLDER OF .\.git\objects: 28
+ SUBFOLDER OF .\.git\objects: 2a
+ SUBFOLDER OF .\.git\objects: 2d
+ SUBFOLDER OF .\.git\objects: 2f
+ SUBFOLDER OF .\.git\objects: 32
+ SUBFOLDER OF .\.git\objects: 33
+ SUBFOLDER OF .\.git\objects: 34
+ SUBFOLDER OF .\.git\objects: 35
+ SUBFOLDER OF .\.git\objects: 37
+ SUBFOLDER OF .\.git\objects: 3a
+ SUBFOLDER OF .\.git\objects: 3b
+ SUBFOLDER OF .\.git\objects: 3f
+ SUBFOLDER OF .\.git\objects: 41
+ SUBFOLDER OF .\.git\objects: 43
+ SUBFOLDER OF .\.git\objects: 44
+ SUBFOLDER OF .\.git\objects: 45
+ SUBFOLDER OF .\.git\objects: 47
+ SUBFOLDER OF .\.git\objects: 49
+ SUBFOLDER OF .\.git\objects: 4b
+ SUBFOLDER OF .\.git\objects: 4c
+ SUBFOLDER OF .\.git\objects: 4d
+ SUBFOLDER OF .\.git\objects: 4e
+ SUBFOLDER OF .\.git\objects: 4f
+ SUBFOLDER OF .\.git\objects: 50
+ SUBFOLDER OF .\.git\objects: 52
+ SUBFOLDER OF .\.git\objects: 54
+ SUBFOLDER OF .\.git\objects: 55
+ SUBFOLDER OF .\.git\objects: 56
+ SUBFOLDER OF .\.git\objects: 57
+ SUBFOLDER OF .\.git\objects: 58
+ SUBFOLDER OF .\.git\objects: 5b
+ SUBFOLDER OF .\.git\objects: 5d
+ SUBFOLDER OF .\.git\objects: 5e
+ SUBFOLDER OF .\.git\objects: 5f
+ SUBFOLDER OF .\.git\objects: 60
+ SUBFOLDER OF .\.git\objects: 63
+ SUBFOLDER OF .\.git\objects: 64
+ SUBFOLDER OF .\.git\objects: 66
+ SUBFOLDER OF .\.git\objects: 67
+ SUBFOLDER OF .\.git\objects: 69
+ SUBFOLDER OF .\.git\objects: 6a
+ SUBFOLDER OF .\.git\objects: 6b
+ SUBFOLDER OF .\.git\objects: 6c
+ SUBFOLDER OF .\.git\objects: 6e
+ SUBFOLDER OF .\.git\objects: 70
+ SUBFOLDER OF .\.git\objects: 72
+ SUBFOLDER OF .\.git\objects: 7a
+ SUBFOLDER OF .\.git\objects: 7b
+ SUBFOLDER OF .\.git\objects: 7c
+ SUBFOLDER OF .\.git\objects: 7d
+ SUBFOLDER OF .\.git\objects: 7e
+ SUBFOLDER OF .\.git\objects: 7f
+ SUBFOLDER OF .\.git\objects: 81
+ SUBFOLDER OF .\.git\objects: 82
+ SUBFOLDER OF .\.git\objects: 83
+ SUBFOLDER OF .\.git\objects: 85
+ SUBFOLDER OF .\.git\objects: 8a
+ SUBFOLDER OF .\.git\objects: 8b
+ SUBFOLDER OF .\.git\objects: 8d
+ SUBFOLDER OF .\.git\objects: 8e
+ SUBFOLDER OF .\.git\objects: 8f
+ SUBFOLDER OF .\.git\objects: 92
+ SUBFOLDER OF .\.git\objects: 93
+ SUBFOLDER OF .\.git\objects: 96
+ SUBFOLDER OF .\.git\objects: 98
+ SUBFOLDER OF .\.git\objects: 9b
+ SUBFOLDER OF .\.git\objects: 9c
+ SUBFOLDER OF .\.git\objects: 9d
+ SUBFOLDER OF .\.git\objects: 9f
+ SUBFOLDER OF .\.git\objects: a1
+ SUBFOLDER OF .\.git\objects: a2
+ SUBFOLDER OF .\.git\objects: a3
+ SUBFOLDER OF .\.git\objects: a5
+ SUBFOLDER OF .\.git\objects: a6
+ SUBFOLDER OF .\.git\objects: a8
+ SUBFOLDER OF .\.git\objects: a9
+ SUBFOLDER OF .\.git\objects: aa
+ SUBFOLDER OF .\.git\objects: ae
+ SUBFOLDER OF .\.git\objects: af
+ SUBFOLDER OF .\.git\objects: b0
+ SUBFOLDER OF .\.git\objects: b1
+ SUBFOLDER OF .\.git\objects: b2
+ SUBFOLDER OF .\.git\objects: b3
+ SUBFOLDER OF .\.git\objects: b4
+ SUBFOLDER OF .\.git\objects: b6
+ SUBFOLDER OF .\.git\objects: b7
+ SUBFOLDER OF .\.git\objects: b8
+ SUBFOLDER OF .\.git\objects: bb
+ SUBFOLDER OF .\.git\objects: bd
+ SUBFOLDER OF .\.git\objects: be
+ SUBFOLDER OF .\.git\objects: bf
+ SUBFOLDER OF .\.git\objects: c0
+ SUBFOLDER OF .\.git\objects: c4
+ SUBFOLDER OF .\.git\objects: c5
+ SUBFOLDER OF .\.git\objects: c7
+ SUBFOLDER OF .\.git\objects: c8
+ SUBFOLDER OF .\.git\objects: ca
+ SUBFOLDER OF .\.git\objects: cb
+ SUBFOLDER OF .\.git\objects: cd
+ SUBFOLDER OF .\.git\objects: ce
+ SUBFOLDER OF .\.git\objects: cf
+ SUBFOLDER OF .\.git\objects: d1
+ SUBFOLDER OF .\.git\objects: d2
+ SUBFOLDER OF .\.git\objects: d5
+ SUBFOLDER OF .\.git\objects: d6
+ SUBFOLDER OF .\.git\objects: d7
+ SUBFOLDER OF .\.git\objects: da
+ SUBFOLDER OF .\.git\objects: db
+ SUBFOLDER OF .\.git\objects: dd
+ SUBFOLDER OF .\.git\objects: e0
+ SUBFOLDER OF .\.git\objects: e1
+ SUBFOLDER OF .\.git\objects: e2
+ SUBFOLDER OF .\.git\objects: e6
+ SUBFOLDER OF .\.git\objects: e7
+ SUBFOLDER OF .\.git\objects: e8
+ SUBFOLDER OF .\.git\objects: e9
+ SUBFOLDER OF .\.git\objects: eb
+ SUBFOLDER OF .\.git\objects: ec
+ SUBFOLDER OF .\.git\objects: ef
+ SUBFOLDER OF .\.git\objects: f0
+ SUBFOLDER OF .\.git\objects: f1
+ SUBFOLDER OF .\.git\objects: f2
+ SUBFOLDER OF .\.git\objects: f3
+ SUBFOLDER OF .\.git\objects: f5
+ SUBFOLDER OF .\.git\objects: f6
+ SUBFOLDER OF .\.git\objects: f7
+ SUBFOLDER OF .\.git\objects: fc
+ SUBFOLDER OF .\.git\objects: fd
+ SUBFOLDER OF .\.git\objects: fe
+ SUBFOLDER OF .\.git\objects: info
+ SUBFOLDER OF .\.git\objects: pack
+ The current folder is .\.git\objects\00
+ FILE INSIDE .\.git\objects\00: 34ef7ae95bf3040f99243fb1c313606dbd75bd
+ The current folder is .\.git\objects\01
+ FILE INSIDE .\.git\objects\01: 01d7a7c6a5fef4e9374f476eede5df4b9fe83d
+ The current folder is .\.git\objects\04
+ FILE INSIDE .\.git\objects\04: 73e29df38a24f8ec85879c3d1c5c7edc698f84
+ The current folder is .\.git\objects\05
+ FILE INSIDE .\.git\objects\05: 2bb3a2801a73c356b79c38c59111ec03b63cb8
+ The current folder is .\.git\objects\07
+ FILE INSIDE .\.git\objects\07: 7059036976ed5d1905081d0dac135115585f39
+ FILE INSIDE .\.git\objects\07: e84ca94d3997d0fb9202ada5845ba18caa2bf2
+ The current folder is .\.git\objects\08
+ FILE INSIDE .\.git\objects\08: 0a82b35d1a8915f440b5f38876a4dd2cdaa4ce
+ FILE INSIDE .\.git\objects\08: f49e79c9b612c71ff164b3434b00d5c9eab0c3
+ The current folder is .\.git\objects\0a
+ FILE INSIDE .\.git\objects\0a: d628a05faa2309f6f225ff58dd70e3971befa6
+ The current folder is .\.git\objects\0d
+ FILE INSIDE .\.git\objects\0d: 0c589b2cad48d3e5f06e11392eab6ca350342e
+ FILE INSIDE .\.git\objects\0d: 5a1fb668c2aec0cc789b350943cf921daa0adf
+ FILE INSIDE .\.git\objects\0d: bf694065811feab7ab5363f19b753942fdb410
+ The current folder is .\.git\objects\0f
+ FILE INSIDE .\.git\objects\0f: 942bf9a1ee4eb1602ce68bdfd66566f4cbe3c1
+ The current folder is .\.git\objects\10
+ FILE INSIDE .\.git\objects\10: 2a328411e16d181ffa33e00ba55feea3e61265
+ The current folder is .\.git\objects\13
+ FILE INSIDE .\.git\objects\13: 859e250c616cb357851a704c9f4850a63b228f
+ The current folder is .\.git\objects\14
+ FILE INSIDE .\.git\objects\14: 528efe844f83c4d5cb0a9358cea6dee3fa9f17
+ The current folder is .\.git\objects\15
+ FILE INSIDE .\.git\objects\15: 3b089548965e3495b28c97f0e2121f8f381d36
+ The current folder is .\.git\objects\16
+ FILE INSIDE .\.git\objects\16: 6a964cf0dc0ec7415a6e0b41b99537eb384428
+ FILE INSIDE .\.git\objects\16: 97d8cc70d7ca3e362f1e9628c9c9610c76ea8a
+ FILE INSIDE .\.git\objects\16: c27192c6a5dcf00bcbae991905cfdab270fbba
+ The current folder is .\.git\objects\17
+ FILE INSIDE .\.git\objects\17: d1b7b01b748dffd44b4e31301f5faed26fafe8
+ The current folder is .\.git\objects\18
+ FILE INSIDE .\.git\objects\18: 2c23dd74ce39076e1b872f22e48dc8cb5845d5
+ The current folder is .\.git\objects\19
+ FILE INSIDE .\.git\objects\19: 5717ee28c8a1c6ad183ce6ea09285acc5831e3
+ FILE INSIDE .\.git\objects\19: ed00c977057e0736c73f66ca1810702a4375f2
+ The current folder is .\.git\objects\1a
+ FILE INSIDE .\.git\objects\1a: 1a062583a52a91f2fb2659a69ab92b144fdf55
+ The current folder is .\.git\objects\1b
+ FILE INSIDE .\.git\objects\1b: 72b87208b1d27908f4b43fdc7db1cd2bbe340b
+ FILE INSIDE .\.git\objects\1b: 74158bfd51813531763932b92ea2be1d1bd1c6
+ The current folder is .\.git\objects\1c
+ FILE INSIDE .\.git\objects\1c: 48fcde3a3eb88c945dd6df5a2b4065c77ab849
+ The current folder is .\.git\objects\1e
+ FILE INSIDE .\.git\objects\1e: f2885bcc700e69561c5fe71eab898531312321
+ The current folder is .\.git\objects\1f
+ FILE INSIDE .\.git\objects\1f: 3f01b18b07cdb28e488406c692b1a9dca406c6
+ The current folder is .\.git\objects\21
+ FILE INSIDE .\.git\objects\21: 987b129cd503f3bb5f65b90f0e3c47b7575f2f
+ The current folder is .\.git\objects\22
+ FILE INSIDE .\.git\objects\22: 0e168773dace736e7d9b10308ad118bb6689ae
+ The current folder is .\.git\objects\24
+ FILE INSIDE .\.git\objects\24: 2291d09d8b09ad9830bd46133b800aa6f7b506
+ FILE INSIDE .\.git\objects\24: a7db462ad6e2228588e1f04054aa3ac3a240eb
+ The current folder is .\.git\objects\25
+ FILE INSIDE .\.git\objects\25: 50218a7a23bf5e21b7146bb9fd91eb0d7d3ebc
+ The current folder is .\.git\objects\28
+ FILE INSIDE .\.git\objects\28: 6b7d00a8ea479cb032a32f0c71e477b1d81a25
+ FILE INSIDE .\.git\objects\28: ca3d8b031375a0a9eb0590f2b422fcdeae5d85
+ The current folder is .\.git\objects\2a
+ FILE INSIDE .\.git\objects\2a: cae8b1c8740bb5e33c493aeefde74c1ff5eaff
+ The current folder is .\.git\objects\2d
+ FILE INSIDE .\.git\objects\2d: 4bdfed4b0f1f8b64994f0cd0a04a03c56d3b63
+ The current folder is .\.git\objects\2f
+ FILE INSIDE .\.git\objects\2f: 40a905a2cfe534494a085b60406143e6313a0b
+ FILE INSIDE .\.git\objects\2f: afcfad714f905a5314ef0064cf5bbee2b92f9c
+ The current folder is .\.git\objects\32
+ FILE INSIDE .\.git\objects\32: 36f4e24c7d147ac697da56870f98d9afb6fdec
+ The current folder is .\.git\objects\33
+ FILE INSIDE .\.git\objects\33: c95e38a5468d376f054db9b1e99a3103ecc36d
+ The current folder is .\.git\objects\34
+ FILE INSIDE .\.git\objects\34: 1722f7fed920a120a999ef2fe08163a0267a32
+ FILE INSIDE .\.git\objects\34: 316e43e0b7af5045ad11938ba6c0afb291d5e9
+ The current folder is .\.git\objects\35
+ FILE INSIDE .\.git\objects\35: 7d588f8eee40a600725a3f888ad78f922cae3f
+ The current folder is .\.git\objects\37
+ FILE INSIDE .\.git\objects\37: 7b4aa28804e4f0060338d5c8ff6d7fb9028b0b
+ FILE INSIDE .\.git\objects\37: d61a762ee749c2b9b84981fb501f57680ac720
+ The current folder is .\.git\objects\3a
+ FILE INSIDE .\.git\objects\3a: 0216ee03a0f429dfcc519c4c311593f4cfb34d
+ The current folder is .\.git\objects\3b
+ FILE INSIDE .\.git\objects\3b: 11b0f9f6ee6646067b81c6a8ba4f84d996a00d
+ The current folder is .\.git\objects\3f
+ FILE INSIDE .\.git\objects\3f: 53803a4b05b39f3386ee2fa71b99ebfb4be1b3
+ FILE INSIDE .\.git\objects\3f: d0e85217b81464b89832edb31dee814bd076d3
+ The current folder is .\.git\objects\41
+ FILE INSIDE .\.git\objects\41: 2577085757d824d76b6069f76095b43d8854c4
+ The current folder is .\.git\objects\43
+ FILE INSIDE .\.git\objects\43: 82def605ba2bc7065afd0fb6bb7b9527546153
+ The current folder is .\.git\objects\44
+ FILE INSIDE .\.git\objects\44: 680d6811e93c7e31446dff3830bfdf6e54d730
+ The current folder is .\.git\objects\45
+ FILE INSIDE .\.git\objects\45: 90cdc9610042774b1a1bf3c0897d818ac41dfe
+ The current folder is .\.git\objects\47
+ FILE INSIDE .\.git\objects\47: 607665b46188cb957452aba71bc0cad872c376
+ FILE INSIDE .\.git\objects\47: afc71b49c8e924ba92ee1eb81d1e4275f23999
+ The current folder is .\.git\objects\49
+ FILE INSIDE .\.git\objects\49: 202e46e3012a955e36610e165e1acb106ba392
+ The current folder is .\.git\objects\4b
+ FILE INSIDE .\.git\objects\4b: 5542f8315b9585c798a1f4019f837d35e7c77e
+ FILE INSIDE .\.git\objects\4b: 923d7b11556c8b879ca49bd2f240f925d203df
+ The current folder is .\.git\objects\4c
+ FILE INSIDE .\.git\objects\4c: e222900d99d9634afff593470f4a1390a2c45e
+ The current folder is .\.git\objects\4d
+ FILE INSIDE .\.git\objects\4d: 9e7ad4f80e6fbd2735adfcb6f3972bb4da32d2
+ The current folder is .\.git\objects\4e
+ FILE INSIDE .\.git\objects\4e: c563bee86c978a6f25d0d5e272adbced933fae
+ The current folder is .\.git\objects\4f
+ FILE INSIDE .\.git\objects\4f: 6997acd381904ca2313d3182d874f03e2fe382
+ FILE INSIDE .\.git\objects\4f: cf8066ae0789a940c9309aa5b072de9a307d3b
+ The current folder is .\.git\objects\50
+ FILE INSIDE .\.git\objects\50: 56927c8f5ffb82887685c7b4dbc4d9ad8c3e5b
+ The current folder is .\.git\objects\52
+ FILE INSIDE .\.git\objects\52: ce2e951e6d25c8680cf98fdeacc5053b167c68
+ The current folder is .\.git\objects\54
+ FILE INSIDE .\.git\objects\54: d37d9d51e5869ca06cb681505faa6700619704
+ The current folder is .\.git\objects\55
+ FILE INSIDE .\.git\objects\55: b33a499235d4695a42ff9e62ace833d1839a76
+ The current folder is .\.git\objects\56
+ FILE INSIDE .\.git\objects\56: 0ac3201133604cda40177bff15cb643b500dd2
+ The current folder is .\.git\objects\57
+ FILE INSIDE .\.git\objects\57: 482a34ebb2e9b77551e382047ed7ff34b855ba
+ The current folder is .\.git\objects\58
+ FILE INSIDE .\.git\objects\58: c043c9bc206de0217b1844489920d2158164e9
+ FILE INSIDE .\.git\objects\58: d7b6f4cbec36dd1ecdca74d64bc3808d0c94fd
+ FILE INSIDE .\.git\objects\58: fb7ab7634315707b3d1345da1e342ed4a2ab3b
+ The current folder is .\.git\objects\5b
+ FILE INSIDE .\.git\objects\5b: 048e1513b460695fb4cbaa6b8fbbd0087825e1
+ FILE INSIDE .\.git\objects\5b: 6aba94e2fbd75453221aab85edb63152caff8e
+ FILE INSIDE .\.git\objects\5b: db6939a7a8d440ac7983d57a13555b69dbecb1
+ The current folder is .\.git\objects\5d
+ FILE INSIDE .\.git\objects\5d: 10175a765eca239f69f056a7390b0794502251
+ FILE INSIDE .\.git\objects\5d: 2968acd52c62cf7b71b6ff16e06b80a5a7f2eb
+ FILE INSIDE .\.git\objects\5d: bac9d27bc4f809e4160b844eff54551e7c964b
+ The current folder is .\.git\objects\5e
+ FILE INSIDE .\.git\objects\5e: b8cfc9ccf9436af908dce867dfb4345d140ff3
+ The current folder is .\.git\objects\5f
+ FILE INSIDE .\.git\objects\5f: 5463ab7ada7160fcd268e5d568f948400a92a1
+ FILE INSIDE .\.git\objects\5f: b80921130568a3ea0970da0544347ba5979673
+ The current folder is .\.git\objects\60
+ FILE INSIDE .\.git\objects\60: ea3368ac7a3fa086009d901253449d222cc29d
+ The current folder is .\.git\objects\63
+ FILE INSIDE .\.git\objects\63: bd3ec92f8ab7a9f8eb11347c6c9263b824bc01
+ The current folder is .\.git\objects\64
+ FILE INSIDE .\.git\objects\64: c67394efd028dcb1c1079d835d5fe609cca97d
+ The current folder is .\.git\objects\66
+ FILE INSIDE .\.git\objects\66: c73c1960834fa969de75e677c0fbf2dd0d9b72
+ The current folder is .\.git\objects\67
+ FILE INSIDE .\.git\objects\67: a1416c753cf6f9606697621dd38528d2cf147f
+ The current folder is .\.git\objects\69
+ FILE INSIDE .\.git\objects\69: e7fbc8c5390af9da7d63a47967f1c0ae39b2ed
+ The current folder is .\.git\objects\6a
+ FILE INSIDE .\.git\objects\6a: 2df6cbf1e2a9442f3e7a1c4d311ad63dbc741a
+ The current folder is .\.git\objects\6b
+ FILE INSIDE .\.git\objects\6b: 63b5f6db4c683d2f2027d125ca2fca137da5cc
+ The current folder is .\.git\objects\6c
+ FILE INSIDE .\.git\objects\6c: a3814ad4f85913888646052e86a32aaa0d8f77
+ The current folder is .\.git\objects\6e
+ FILE INSIDE .\.git\objects\6e: 1f101aa29c83d2de9f583abfb9c4ac5b66c798
+ FILE INSIDE .\.git\objects\6e: 690c940c09754bdaff203f2717c73bc80448a6
+ FILE INSIDE .\.git\objects\6e: d5c91ea861d332b353d430a74ed6caaffa2d3f
+ The current folder is .\.git\objects\70
+ FILE INSIDE .\.git\objects\70: 59826302193dc991d10812a6f115fd10f2b7b4
+ FILE INSIDE .\.git\objects\70: 7dc83a253d9564fefbe4d97948d3c7413c2e85
+ The current folder is .\.git\objects\72
+ FILE INSIDE .\.git\objects\72: 14e6e058a1ba2177a82c4dce1ddd248b16ac8d
+ The current folder is .\.git\objects\7a
+ FILE INSIDE .\.git\objects\7a: 70cfeb0139b25ac5a137c6b869abb51c173eaa
+ FILE INSIDE .\.git\objects\7a: 7d8ed92b80193cd3a4242d4f15c74b54bd7d23
+ FILE INSIDE .\.git\objects\7a: a05d709df540331659dc92abd897b3e58c2713
+ The current folder is .\.git\objects\7b
+ FILE INSIDE .\.git\objects\7b: f2a4f669615bee304ba1a2eebd5bfd06aa78a7
+ The current folder is .\.git\objects\7c
+ FILE INSIDE .\.git\objects\7c: 4be23a912ec7add52747cf807d57b692d91099
+ FILE INSIDE .\.git\objects\7c: cd0824cc9f6d57d78169a4d7af06a41770a01e
+ The current folder is .\.git\objects\7d
+ FILE INSIDE .\.git\objects\7d: 9ab09b93f8f73fe5199d967abc55f8c4ec14ac
+ The current folder is .\.git\objects\7e
+ FILE INSIDE .\.git\objects\7e: 7b80f01e246d833355009a18df9808fb6da593
+ The current folder is .\.git\objects\7f
+ FILE INSIDE .\.git\objects\7f: 630d1d7d777308ce7b3d099c16a58068065b96
+ The current folder is .\.git\objects\81
+ FILE INSIDE .\.git\objects\81: 1da4e7da9402aabb4202824169fa767cdddd22
+ FILE INSIDE .\.git\objects\81: ef657ad81273d434030c7157166aa801653575
+ FILE INSIDE .\.git\objects\81: f72185edfaffa4feb8bcd3a276b99994b35f8c
+ The current folder is .\.git\objects\82
+ FILE INSIDE .\.git\objects\82: 9c6f6f5951cc06b2756d166fe4e60ccc62be8a
+ FILE INSIDE .\.git\objects\82: a2554ebd06107abd61d8235dcaa31d28b338fb
+ The current folder is .\.git\objects\83
+ FILE INSIDE .\.git\objects\83: 4a807e7822a4b9b083f117b1b763e839965037
+ FILE INSIDE .\.git\objects\83: 5d3e911991204e228c01ea363a5a60d05b6626
+ FILE INSIDE .\.git\objects\83: 811962e84c340c89500cfd1ca50eda93f61aac
+ The current folder is .\.git\objects\85
+ FILE INSIDE .\.git\objects\85: 3a0e264ab64690a7ce5551aba341e615036443
+ FILE INSIDE .\.git\objects\85: 3e3d657418d495492b0ba2f709fc46bc4da694
+ FILE INSIDE .\.git\objects\85: 7626c7926ee2ea971fb0fec420186a8a9fb860
+ The current folder is .\.git\objects\8a
+ FILE INSIDE .\.git\objects\8a: 954a18a4dd2963e6c4c985dfa51ab4425eca04
+ The current folder is .\.git\objects\8b
+ FILE INSIDE .\.git\objects\8b: 137891791fe96927ad78e64b0aad7bded08bdc
+ The current folder is .\.git\objects\8d
+ FILE INSIDE .\.git\objects\8d: cac99484a68c1c9f02e15599f1f5046bdd2dbf
+ The current folder is .\.git\objects\8e
+ FILE INSIDE .\.git\objects\8e: 510c7df094197e54d29ea5b63b030b1a148cab
+ FILE INSIDE .\.git\objects\8e: eb003bb322604b43d8124fe13f66bcbe1074a2
+ The current folder is .\.git\objects\8f
+ FILE INSIDE .\.git\objects\8f: 8ad872a58cc7c0e26e0847343cb13c325f67b7
+ The current folder is .\.git\objects\92
+ FILE INSIDE .\.git\objects\92: a914a1530ed520831f47b9b07077a7165ff3a7
+ The current folder is .\.git\objects\93
+ FILE INSIDE .\.git\objects\93: 93136a1338bf098f782ac1c4a15fc6634186af
+ The current folder is .\.git\objects\96
+ FILE INSIDE .\.git\objects\96: 01386f1d7c68876be45a19b0a8bd3534d7215f
+ The current folder is .\.git\objects\98
+ FILE INSIDE .\.git\objects\98: dc595c9c6d80462ffbb5246dfbdb28d7143bea
+ The current folder is .\.git\objects\9b
+ FILE INSIDE .\.git\objects\9b: c4b7f78af90fbb635bfc5a049b92e6c9a27d5a
+ The current folder is .\.git\objects\9c
+ FILE INSIDE .\.git\objects\9c: 9adcfb85f0354905d69dc331c0fc7cff87c639
+ The current folder is .\.git\objects\9d
+ FILE INSIDE .\.git\objects\9d: 6f8e17366942c6210099f99e26ad75ec270e59
+ FILE INSIDE .\.git\objects\9d: f3b0f1e41ccf45a3228600f34dbf984e75178c
+ The current folder is .\.git\objects\9f
+ FILE INSIDE .\.git\objects\9f: 595df4141dfe771d410bbbcc2b9599421dd3ab
+ The current folder is .\.git\objects\a1
+ FILE INSIDE .\.git\objects\a1: 7c3671cd22183c8db836707d9487837f8d362d
+ FILE INSIDE .\.git\objects\a1: b0f84f6597e4a8efa4c8daa135bbc42474b5fb
+ FILE INSIDE .\.git\objects\a1: b27d2441a8110d18a0ff399c3905e5a9fad9a9
+ The current folder is .\.git\objects\a2
+ FILE INSIDE .\.git\objects\a2: 5243251989a29f29e7058ebce7b42346bd8457
+ The current folder is .\.git\objects\a3
+ FILE INSIDE .\.git\objects\a3: 53d24752a4311023c03bcb8c3a416187947cbd
+ The current folder is .\.git\objects\a5
+ FILE INSIDE .\.git\objects\a5: 98301e60e4434ca96d0bfb8f5b5872ba784e2a
+ FILE INSIDE .\.git\objects\a5: afc73a7ffe82f05e44339433e720b0bc978f62
+ The current folder is .\.git\objects\a6
+ FILE INSIDE .\.git\objects\a6: 7a854b4df8c10005a25aa7d35a8538b1903bb1
+ FILE INSIDE .\.git\objects\a6: 937b5d692f5aa17c5bbdc13bbd506762df965e
+ The current folder is .\.git\objects\a8
+ FILE INSIDE .\.git\objects\a8: b9bb47363f5994855ffc897e7ea1b331c4771c
+ FILE INSIDE .\.git\objects\a8: e76c7dd7a6133043c1ed7134361c6c2c1f4a4c
+ The current folder is .\.git\objects\a9
+ FILE INSIDE .\.git\objects\a9: c46a3ef97374b5db801fba4b54d2f6b0160df1
+ The current folder is .\.git\objects\aa
+ FILE INSIDE .\.git\objects\aa: 091d2cbe074eb58de65956d16898780419c3ab
+ The current folder is .\.git\objects\ae
+ FILE INSIDE .\.git\objects\ae: 92ace96cd323fb08e58cae6d417c25a448ab7a
+ The current folder is .\.git\objects\af
+ FILE INSIDE .\.git\objects\af: c4cde7151441673c9ccbfbfbe781abef7cb976
+ FILE INSIDE .\.git\objects\af: d1f7691030f3b7bfcf34664b68f7afc8263ee5
+ The current folder is .\.git\objects\b0
+ FILE INSIDE .\.git\objects\b0: 670bc9a45c432213d0efc615cf0ffec81876ee
+ The current folder is .\.git\objects\b1
+ FILE INSIDE .\.git\objects\b1: 7cdb9484028423ad21e1fe33782f9954f2da4d
+ The current folder is .\.git\objects\b2
+ FILE INSIDE .\.git\objects\b2: 12f14a5db101e4cd599f70963967a7e801cbc5
+ FILE INSIDE .\.git\objects\b2: 59bdd8a138b28276bfa136b040d6677e49f468
+ The current folder is .\.git\objects\b3
+ FILE INSIDE .\.git\objects\b3: 7884c2fb3ee17dd01401b7fc3d61b3fb007784
+ The current folder is .\.git\objects\b4
+ FILE INSIDE .\.git\objects\b4: 661b477ef6717dedd8c0e39661f599cc21ea12
+ The current folder is .\.git\objects\b6
+ FILE INSIDE .\.git\objects\b6: 761f3ec7e1115e07e1affb3679e3d915aad7e0
+ The current folder is .\.git\objects\b7
+ FILE INSIDE .\.git\objects\b7: a3d1f70341146f3c2a7094cdd039f66053445d
+ The current folder is .\.git\objects\b8
+ FILE INSIDE .\.git\objects\b8: 501127c8c999164de40a848255d390175ded22
+ FILE INSIDE .\.git\objects\b8: 7d8235b775933e33792b06e7e97fe04b4804cc
+ The current folder is .\.git\objects\bb
+ FILE INSIDE .\.git\objects\bb: 5d1d2a80a12eca0ca3296740f13fcd853a28b4
+ The current folder is .\.git\objects\bd
+ FILE INSIDE .\.git\objects\bd: 857d3fdf082e8baf42e0f13d8c0c8cee2b9388
+ FILE INSIDE .\.git\objects\bd: 95e43c82b6674c52c1c5504161100a1b9322e0
+ The current folder is .\.git\objects\be
+ FILE INSIDE .\.git\objects\be: 2027728031f29e4d23ecab9f9b85d5cad1e5e5
+ FILE INSIDE .\.git\objects\be: 4265e8b81cffdbb158247cb514891610aa4138
+ FILE INSIDE .\.git\objects\be: cc2825538ce3a435337e0f23c4614db6f6aaea
+ The current folder is .\.git\objects\bf
+ FILE INSIDE .\.git\objects\bf: 4a73b6ae3f7648290fb86277658f95832d509c
+ The current folder is .\.git\objects\c0
+ FILE INSIDE .\.git\objects\c0: 158ea6b5ce7455350bca7fb6b69aef2b3a41fe
+ FILE INSIDE .\.git\objects\c0: 3047087b46c3ede9cfe979d4a28693c50771e7
+ FILE INSIDE .\.git\objects\c0: 6b761896e28cccaba16d4479ae5576f129cbb5
+ The current folder is .\.git\objects\c4
+ FILE INSIDE .\.git\objects\c4: 9fedb0f48bba05297d63274556609f8f879e80
+ FILE INSIDE .\.git\objects\c4: f6fa11c74b4011f681a19bfa7c7df3aa776cb9
+ The current folder is .\.git\objects\c5
+ FILE INSIDE .\.git\objects\c5: f226218c2d1ff6968edad3769619eb4f949c39
+ The current folder is .\.git\objects\c7
+ FILE INSIDE .\.git\objects\c7: 5f1f7d77c72395a23554968ee3dac6393d18d6
+ FILE INSIDE .\.git\objects\c7: a4638f624d8067f0e0c1ee5b1c587508234078
+ The current folder is .\.git\objects\c8
+ FILE INSIDE .\.git\objects\c8: 25b1043ace579be3b477d9d40b6f1305b9edf6
+ The current folder is .\.git\objects\ca
+ FILE INSIDE .\.git\objects\ca: 0105283762c41625c3d8860c88948df0b3575f
+ The current folder is .\.git\objects\cb
+ FILE INSIDE .\.git\objects\cb: 2cfcf241a78c00d4fe5e7065d1f218a07ca1f9
+ FILE INSIDE .\.git\objects\cb: 606b734aca7a7183abd69097a81665c5118e1d
+ The current folder is .\.git\objects\cd
+ FILE INSIDE .\.git\objects\cd: 0875583aabe89ee197ea133980a9085d08e497
+ FILE INSIDE .\.git\objects\cd: 79bdfe62657470e4878810475403e40b683563
+ FILE INSIDE .\.git\objects\cd: 8936e742bedeb9f25d3b5ee4b30ca9b1bed460
+ The current folder is .\.git\objects\ce
+ FILE INSIDE .\.git\objects\ce: d2f3bb9d3dde93908930f41e84de47fa36665b
+ The current folder is .\.git\objects\cf
+ FILE INSIDE .\.git\objects\cf: 994e3a368e1d0bb9eef6ca08fbae85bc8661cb
+ The current folder is .\.git\objects\d1
+ FILE INSIDE .\.git\objects\d1: 149fc5baa7951a2c20bdaa7c52d9d0dc53b4c2
+ The current folder is .\.git\objects\d2
+ FILE INSIDE .\.git\objects\d2: 9a95c2e07ab6f6fda17993d76fbc3ade3ce197
+ The current folder is .\.git\objects\d5
+ FILE INSIDE .\.git\objects\d5: 14665f1d0d666b3026b38c282a0d04b2eb9836
+ FILE INSIDE .\.git\objects\d5: 560ed419141fcf19fc2367641b4a18c0614bcd
+ The current folder is .\.git\objects\d6
+ FILE INSIDE .\.git\objects\d6: 152724068425c92f15f064aec1a94632e0bd64
+ FILE INSIDE .\.git\objects\d6: 2fd3c055ce67f40d38a4a96821bd3d8d4cdfcf
+ The current folder is .\.git\objects\d7
+ FILE INSIDE .\.git\objects\d7: e52394ce07184d6067a84c51fe97e62fec3b6b
+ The current folder is .\.git\objects\da
+ FILE INSIDE .\.git\objects\da: b4c6c698f8fc6d8e0e811da676f8e9b9bb33c9
+ The current folder is .\.git\objects\db
+ FILE INSIDE .\.git\objects\db: 573f1abeccf785ce601548c3f35ee5b8f815f5
+ The current folder is .\.git\objects\dd
+ FILE INSIDE .\.git\objects\dd: 551377a617e1343228db06c907456cd43d0128
+ FILE INSIDE .\.git\objects\dd: ec48b2d5afcf8c4fae9342a08cd6157e84edc1
+ The current folder is .\.git\objects\e0
+ FILE INSIDE .\.git\objects\e0: 35a7924c2b25b13513d2b384faa307782000f9
+ FILE INSIDE .\.git\objects\e0: 48b1c89c94382df9e85391892f1d725927aa2f
+ The current folder is .\.git\objects\e1
+ FILE INSIDE .\.git\objects\e1: 1133d0ce00003810cd8198277f5e4061d3d61b
+ The current folder is .\.git\objects\e2
+ FILE INSIDE .\.git\objects\e2: c319af4346155cb4f14e6b062fa7eee0ae4fd6
+ FILE INSIDE .\.git\objects\e2: eadef06a133adb5685ba4a595c2db089daaac2
+ The current folder is .\.git\objects\e6
+ FILE INSIDE .\.git\objects\e6: 0262838861d3bf98c893c6a81f89f6c918631a
+ FILE INSIDE .\.git\objects\e6: 67dca9ce2d3ebd5134e4220ef12031fd87d3b8
+ The current folder is .\.git\objects\e7
+ FILE INSIDE .\.git\objects\e7: dd7996755200fe8e5bfadbafbe7a6d0e67da38
+ FILE INSIDE .\.git\objects\e7: f09c79256d2ac49739403de9bfe04ef19626df
+ The current folder is .\.git\objects\e8
+ FILE INSIDE .\.git\objects\e8: dd7a8ba1f37db07269e48dbc5f36f076d290b6
+ The current folder is .\.git\objects\e9
+ FILE INSIDE .\.git\objects\e9: 286479e1def749b464c3de6287ef98074f3845
+ The current folder is .\.git\objects\eb
+ FILE INSIDE .\.git\objects\eb: 42aac35ae861223d63353473ac7aff310bf384
+ The current folder is .\.git\objects\ec
+ FILE INSIDE .\.git\objects\ec: bfe2fd512877e3267c7ff51d5cd6c8f64bffdb
+ The current folder is .\.git\objects\ef
+ FILE INSIDE .\.git\objects\ef: 353b3341de36d8ae40d93ffef93e48c4734dbe
+ The current folder is .\.git\objects\f0
+ FILE INSIDE .\.git\objects\f0: 904a5d6d50f0735ca15e6b07a858a48a08f968
+ The current folder is .\.git\objects\f1
+ FILE INSIDE .\.git\objects\f1: a4f9d286436ef9dfe8928004860df203820fab
+ The current folder is .\.git\objects\f2
+ FILE INSIDE .\.git\objects\f2: 4183821924c424ebc9b8e53eef62d11294e872
+ The current folder is .\.git\objects\f3
+ FILE INSIDE .\.git\objects\f3: d64b0a7717593503767fc3af926059a139b497
+ The current folder is .\.git\objects\f5
+ FILE INSIDE .\.git\objects\f5: cdd13e4f1af56d682148607b8d98cf074888af
+ The current folder is .\.git\objects\f6
+ FILE INSIDE .\.git\objects\f6: 39a71c862ead5f60ecba0fd53a5258292253fe
+ The current folder is .\.git\objects\f7
+ FILE INSIDE .\.git\objects\f7: 38936d29e468626591009084f77b64ee68b235
+ FILE INSIDE .\.git\objects\f7: a764a2d4e6760dc32cc264d366ccd363c14378
+ The current folder is .\.git\objects\fc
+ FILE INSIDE .\.git\objects\fc: 3d56de59c4d8552c6a819814d20b9c8f419b55
+ The current folder is .\.git\objects\fd
+ FILE INSIDE .\.git\objects\fd: 6ec373cda93549f28be8ac23effcf114872074
+ FILE INSIDE .\.git\objects\fd: d44dc8b9ae7679a9cedc112c18c4f58d7c1b5d
+ The current folder is .\.git\objects\fe
+ FILE INSIDE .\.git\objects\fe: 563fb4aa6b2a21028383dae7ef28e7acc1ad45
+ The current folder is .\.git\objects\info
+ The current folder is .\.git\objects\pack
+ The current folder is .\.git\refs
+ SUBFOLDER OF .\.git\refs: heads
+ SUBFOLDER OF .\.git\refs: remotes
+ SUBFOLDER OF .\.git\refs: tags
+ The current folder is .\.git\refs\heads
+ FILE INSIDE .\.git\refs\heads: master
+ The current folder is .\.git\refs\remotes
+ SUBFOLDER OF .\.git\refs\remotes: origin
+ The current folder is .\.git\refs\remotes\origin
+ FILE INSIDE .\.git\refs\remotes\origin: master
+ The current folder is .\.git\refs\tags
+ The current folder is .\automate_online-materials
+ FILE INSIDE .\automate_online-materials: alarm.wav
+ FILE INSIDE .\automate_online-materials: allMyCats1.py
+ FILE INSIDE .\automate_online-materials: allMyCats2.py
+ FILE INSIDE .\automate_online-materials: backupToZip.py
+ FILE INSIDE .\automate_online-materials: birthdays.py
+ FILE INSIDE .\automate_online-materials: boxPrint.py
+ FILE INSIDE .\automate_online-materials: buggyAddingProgram.py
+ FILE INSIDE .\automate_online-materials: bulletPointAdder.py
+ FILE INSIDE .\automate_online-materials: calcProd.py
+ FILE INSIDE .\automate_online-materials: catlogo.png
+ FILE INSIDE .\automate_online-materials: catnapping.py
+ FILE INSIDE .\automate_online-materials: census2010.py
+ FILE INSIDE .\automate_online-materials: censuspopdata.xlsx
+ FILE INSIDE .\automate_online-materials: characterCount.py
+ FILE INSIDE .\automate_online-materials: coinFlip.py
+ FILE INSIDE .\automate_online-materials: combinedminutes.pdf
+ FILE INSIDE .\automate_online-materials: combinePdfs.py
+ FILE INSIDE .\automate_online-materials: countdown.py
+ FILE INSIDE .\automate_online-materials: demo.docx
+ FILE INSIDE .\automate_online-materials: dictionary.txt
+ FILE INSIDE .\automate_online-materials: dimensions.xlsx
+ FILE INSIDE .\automate_online-materials: downloadXkcd.py
+ FILE INSIDE .\automate_online-materials: duesRecords.xlsx
+ FILE INSIDE .\automate_online-materials: encrypted.pdf
+ FILE INSIDE .\automate_online-materials: encryptedminutes.pdf
+ FILE INSIDE .\automate_online-materials: errorExample.py
+ FILE INSIDE .\automate_online-materials: example.csv
+ FILE INSIDE .\automate_online-materials: example.html
+ FILE INSIDE .\automate_online-materials: example.xlsx
+ FILE INSIDE .\automate_online-materials: example.zip
+ FILE INSIDE .\automate_online-materials: excelSpreadsheets.zip
+ FILE INSIDE .\automate_online-materials: exitExample.py
+ FILE INSIDE .\automate_online-materials: factorialLog.py
+ FILE INSIDE .\automate_online-materials: fiveTimes.py
+ FILE INSIDE .\automate_online-materials: formFiller.py
+ FILE INSIDE .\automate_online-materials: freezeExample.xlsx
+ FILE INSIDE .\automate_online-materials: getDocxText.py
+ FILE INSIDE .\automate_online-materials: guessTheNumber.py
+ FILE INSIDE .\automate_online-materials: guests.txt
+ FILE INSIDE .\automate_online-materials: headings.docx
+ FILE INSIDE .\automate_online-materials: hello.py
+ FILE INSIDE .\automate_online-materials: helloFunc.py
+ FILE INSIDE .\automate_online-materials: helloFunc2.py
+ FILE INSIDE .\automate_online-materials: helloworld.docx
+ FILE INSIDE .\automate_online-materials: inventory.py
+ FILE INSIDE .\automate_online-materials: isPhoneNumber.py
+ FILE INSIDE .\automate_online-materials: littleKid.py
+ FILE INSIDE .\automate_online-materials: lucky.py
+ FILE INSIDE .\automate_online-materials: magic8Ball.py
+ FILE INSIDE .\automate_online-materials: magic8Ball2.py
+ FILE INSIDE .\automate_online-materials: mapIt.py
+ FILE INSIDE .\automate_online-materials: mcb.pyw
+ FILE INSIDE .\automate_online-materials: meetingminutes.pdf
+ FILE INSIDE .\automate_online-materials: meetingminutes2.pdf
+ FILE INSIDE .\automate_online-materials: merged.xlsx
+ FILE INSIDE .\automate_online-materials: mouseNow.py
+ FILE INSIDE .\automate_online-materials: mouseNow2.py
+ FILE INSIDE .\automate_online-materials: multidownloadXkcd.py
+ FILE INSIDE .\automate_online-materials: multipleParagraphs.docx
+ FILE INSIDE .\automate_online-materials: myPets.py
+ FILE INSIDE .\automate_online-materials: passingReference.py
+ FILE INSIDE .\automate_online-materials: phoneAndEmail.py
+ FILE INSIDE .\automate_online-materials: picnicTable.py
+ FILE INSIDE .\automate_online-materials: prettyCharacterCount.py
+ FILE INSIDE .\automate_online-materials: printRandom.py
+ FILE INSIDE .\automate_online-materials: produceSales.xlsx
+ FILE INSIDE .\automate_online-materials: pw.py
+ FILE INSIDE .\automate_online-materials: quickWeather.py
+ FILE INSIDE .\automate_online-materials: randomQuizGenerator.py
+ FILE INSIDE .\automate_online-materials: readCensusExcel.py
+ FILE INSIDE .\automate_online-materials: readDocx.py
+ FILE INSIDE .\automate_online-materials: removeCsvHeader.py
+ FILE INSIDE .\automate_online-materials: removeCsvHeader.zip
+ FILE INSIDE .\automate_online-materials: renameDates.py
+ FILE INSIDE .\automate_online-materials: resizeAndAddLogo.py
+ FILE INSIDE .\automate_online-materials: restyled.docx
+ FILE INSIDE .\automate_online-materials: sameName.py
+ FILE INSIDE .\automate_online-materials: sameName2.py
+ FILE INSIDE .\automate_online-materials: sameName3.py
+ FILE INSIDE .\automate_online-materials: sameName4.py
+ FILE INSIDE .\automate_online-materials: sampleChart.xlsx
+ FILE INSIDE .\automate_online-materials: sendDuesReminders.py
+ FILE INSIDE .\automate_online-materials: stopwatch.py
+ FILE INSIDE .\automate_online-materials: styled.xlsx
+ FILE INSIDE .\automate_online-materials: styles.xlsx
+ FILE INSIDE .\automate_online-materials: swordfish.py
+ FILE INSIDE .\automate_online-materials: textMyself.py
+ FILE INSIDE .\automate_online-materials: threadDemo.py
+ FILE INSIDE .\automate_online-materials: ticTacToe.py
+ FILE INSIDE .\automate_online-materials: torrentStarter.py
+ FILE INSIDE .\automate_online-materials: twoPage.docx
+ FILE INSIDE .\automate_online-materials: typewritetest.py
+ FILE INSIDE .\automate_online-materials: updatedProduceSales.xlsx
+ FILE INSIDE .\automate_online-materials: updateProduce.py
+ FILE INSIDE .\automate_online-materials: validateInput.py
+ FILE INSIDE .\automate_online-materials: vampire.py
+ FILE INSIDE .\automate_online-materials: vampire2.py
+ FILE INSIDE .\automate_online-materials: watermark.pdf
+ FILE INSIDE .\automate_online-materials: zeroDivide.py
+ FILE INSIDE .\automate_online-materials: zophie.png
+ The current folder is .\Automate_the_Boring_Stuff_onlinematerials_v.2
+ SUBFOLDER OF .\Automate_the_Boring_Stuff_onlinematerials_v.2: automate_online-materials
+ The current folder is .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: alarm.wav
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: allMyCats1.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: allMyCats2.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: backupToZip.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: birthdays.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: boxPrint.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: buggyAddingProgram.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: bulletPointAdder.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: calcProd.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: catlogo.png
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: catnapping.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: census2010.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: censuspopdata.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: characterCount.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: coinFlip.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: combinedminutes.pdf
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: combinePdfs.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: countdown.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: demo.docx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: dictionary.txt
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: dimensions.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: downloadXkcd.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: duesRecords.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: encrypted.pdf
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: encryptedminutes.pdf
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: errorExample.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: example.csv
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: example.html
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: example.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: example.zip
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: excelSpreadsheets.zip
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: exitExample.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: factorialLog.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: fiveTimes.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: formFiller.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: freezeExample.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: getDocxText.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: guessTheNumber.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: guests.txt
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: headings.docx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: hello.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: helloFunc.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: helloFunc2.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: helloworld.docx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: inventory.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: isPhoneNumber.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: littleKid.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: lucky.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: magic8Ball.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: magic8Ball2.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: mapIt.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: mcb.pyw
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: meetingminutes.pdf
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: meetingminutes2.pdf
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: merged.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: mouseNow.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: mouseNow2.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: multidownloadXkcd.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: multipleParagraphs.docx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: myPets.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: passingReference.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: phoneAndEmail.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: picnicTable.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: prettyCharacterCount.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: printRandom.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: produceSales.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: pw.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: quickWeather.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: randomQuizGenerator.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: readCensusExcel.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: readDocx.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: removeCsvHeader.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: removeCsvHeader.zip
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: renameDates.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: resizeAndAddLogo.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: restyled.docx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: sameName.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: sameName2.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: sameName3.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: sameName4.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: sampleChart.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: sendDuesReminders.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: stopwatch.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: styled.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: styles.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: swordfish.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: textMyself.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: threadDemo.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: ticTacToe.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: torrentStarter.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: twoPage.docx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: updatedProduceSales.xlsx
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: updateProduce.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: validateInput.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: vampire.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: vampire2.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: watermark.pdf
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: zeroDivide.py
+ FILE INSIDE .\Automate_the_Boring_Stuff_onlinematerials_v.2\automate_online-materials: zophie.png
+ The current folder is .\chapter18
+ FILE INSIDE .\chapter18: ClickAButton.py
+ FILE INSIDE .\chapter18: formFiller.py
+ FILE INSIDE .\chapter18: MouseMoveDemo.py
+ FILE INSIDE .\chapter18: mouseNow.py
+ FILE INSIDE .\chapter18: startbutton.png
+ FILE INSIDE .\chapter18: typewritetest.py
+ The current folder is .\chapter1_3
+ FILE INSIDE .\chapter1_3: yourFirstProgram.py
+ The current folder is .\Chapter4
+ FILE INSIDE .\Chapter4: allMyCats1.py
+ FILE INSIDE .\Chapter4: allMyCats2.py
+ FILE INSIDE .\Chapter4: magic8Ball2.py
+ FILE INSIDE .\Chapter4: myPets.py
+ FILE INSIDE .\Chapter4: passingReference.py
+ The current folder is .\chapter5
+ FILE INSIDE .\chapter5: birthdays.py
+ FILE INSIDE .\chapter5: characterCount.py
+ FILE INSIDE .\chapter5: prettyCharacterCount.py
+ FILE INSIDE .\chapter5: ticTacToe.py
+ FILE INSIDE .\chapter5: ticTacToeDemo.py
+ The current folder is .\chapter6
+ FILE INSIDE .\chapter6: isPhoneNumber.py
+ The current folder is .\chapter8
+ SUBFOLDER OF .\chapter8: Quiz
+ SUBFOLDER OF .\chapter8: __pycache__
+ FILE INSIDE .\chapter8: bacon.txt
+ FILE INSIDE .\chapter8: hello.txt
+ FILE INSIDE .\chapter8: mcb.pyw
+ FILE INSIDE .\chapter8: myCats.py
+ FILE INSIDE .\chapter8: mydata.bak
+ FILE INSIDE .\chapter8: mydata.dat
+ FILE INSIDE .\chapter8: mydata.dir
+ FILE INSIDE .\chapter8: randomQuizGenerator.py
+ FILE INSIDE .\chapter8: sonnet29.txt
+ FILE INSIDE .\chapter8: spam.txt
+ The current folder is .\chapter8\Quiz
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers1.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers10.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers11.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers12.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers13.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers14.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers15.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers16.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers17.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers18.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers19.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers2.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers20.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers21.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers22.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers23.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers24.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers25.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers26.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers27.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers28.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers29.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers3.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers30.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers31.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers32.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers33.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers34.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers35.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers4.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers5.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers6.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers7.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers8.txt
+ FILE INSIDE .\chapter8\Quiz: capitalquiz_answers9.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz1.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz10.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz11.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz12.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz13.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz14.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz15.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz16.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz17.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz18.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz19.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz2.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz20.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz21.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz22.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz23.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz24.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz25.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz26.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz27.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz28.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz29.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz3.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz30.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz31.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz32.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz33.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz34.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz35.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz4.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz5.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz6.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz7.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz8.txt
+ FILE INSIDE .\chapter8\Quiz: capitalsquiz9.txt
+ The current folder is .\chapter8\__pycache__
+ FILE INSIDE .\chapter8\__pycache__: myCats.cpython-37.pyc
+ The current folder is .\chapter9
+ SUBFOLDER OF .\chapter9: delicious
+ SUBFOLDER OF .\chapter9: delicious_backup
+ FILE INSIDE .\chapter9: eggs.txt
+ FILE INSIDE .\chapter9: spam.txt
+ FILE INSIDE .\chapter9: takeAWalk.py
+ The current folder is .\chapter9\delicious
+ FILE INSIDE .\chapter9\delicious: bacon.txt
+ FILE INSIDE .\chapter9\delicious: eggs2.txt
+ FILE INSIDE .\chapter9\delicious: spam.txt
+ The current folder is .\chapter9\delicious_backup
+ FILE INSIDE .\chapter9\delicious_backup: eggs2.txt
+ FILE INSIDE .\chapter9\delicious_backup: spam.txt
