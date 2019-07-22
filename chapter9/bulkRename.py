@@ -6,5 +6,5 @@
 import shutil, os, re
 
 # Create a regex that matches what you want to replace
-textPattern = re.compile(r"""^(.*?)
+textPattern = re.compile(r"""^(capital.*quiz)
                          )
